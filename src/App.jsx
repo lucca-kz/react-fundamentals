@@ -1,7 +1,8 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+//components
 import FirstComponent from "./components/FirstComponent.jsx";
+import TemplateExpressions from "./components/TemplateExpressions.jsx";
+
+//CSS
 import "./App.css";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       <h1>Fundamentos do react</h1>
       <FirstComponent />
+      <TemplateExpressions />
     </>
   );
 }
