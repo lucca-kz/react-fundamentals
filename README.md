@@ -1,3 +1,3 @@
 # react-fundamentals
 
-Fundamentals taught in Matheus Battisti's React course on Udemyyyy
+Fundamentals taught in Matheus Battisti's React course on Udemy
